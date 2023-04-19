@@ -1,2 +1,2 @@
 # yanwang.github.io
-Yan Wang's homepage
+Yan Wang's webpage
